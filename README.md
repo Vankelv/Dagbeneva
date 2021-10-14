@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning flutter, php and python
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on Web apps
-- 📫 How to reach me kelvin@shaqexpress.com
+- 📫 How to reach me vankelvin603@gmail.com.com
 
 <!---
 KelvinShaq/KelvinShaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
