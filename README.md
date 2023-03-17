@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KelvinShaq
-- 👀 I’m interested in learning flutter, php and python
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in building web apps
+- 🌱 I’m currently learning javascript and React Js
 - 💞️ I’m looking to collaborate on Web apps
 - 📫 How to reach me vankelvin603@gmail.com.com
 
